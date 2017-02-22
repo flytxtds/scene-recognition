@@ -1,4 +1,4 @@
-# SCENE RECOGNITION USING LOCAL AND GLOBAL DESCRIPTORS
+# Scene Recognition by Combining Local and Global Image Descriptors
 
 
 **Approach** : We make use of global feature descriptors as well as 

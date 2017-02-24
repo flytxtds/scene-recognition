@@ -29,6 +29,10 @@ Python." PeerJ 2 (2014): e453.
 [3] Pedregosa, Fabian, et al. "Scikit-learn: Machine learning in 
 Python." Journal of Machine Learning Research 12.Oct (2011): 2825-2830.
 
+## How to Run 
+The Jupyter notebook containing a full implementation of our scene-recognition model is available in our repository.
+Simply download and execute it from your Jupyter installation. Please make sure that scikit-learn and scikit-image libraries are installed. The fifteen scene categories dataset used by the model would be automatically downloaded when the code is executed for the first time. Our model is described in detail in the accompanying paper. 
+
 In case if you find our code to be helpful, please consider citing our paper http://arxiv.org/abs/1702.06850.
 Wilson, J., Arif, M. (2017). Scene Recognition by Combining Local and Global Image Descriptors. arXiv preprint arXiv:1702.06850.
 
